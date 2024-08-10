@@ -6,6 +6,9 @@ has been provided in the repo itself.
 The dashboard, the processed data along with some if the valuable insights from the data has also been stored in a google drive folder
 and the link to that folder is shared below, kindly make sure to check those out.
 
+A preview to the dashboard has been provided above.
+;)
+
 Drive link : "https://drive.google.com/drive/folders/1xB2ifHWPwezKZUnon48HJWvaFGoXhwMJ?usp=sharing"
 
 Thanks in advance for your valuable feedback.
